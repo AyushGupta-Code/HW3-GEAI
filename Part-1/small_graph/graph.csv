@@ -1,0 +1,38 @@
+Source,Target,Weight
+University Tower Deck,University Towers,3
+University Tower Deck,Dan Allen Deck,17
+University Towers,Nelson Hall,3
+Nelson Hall,Killgore Hall,3
+Nelson Hall,David Clark Labs,4
+David Clark Labs,Governer Scott Courtyard,1
+Governer Scott Courtyard,Killgore Hall,4
+Governer Scott Courtyard,Fox Teaching Lab,8
+Dan Allen Deck,Fox Teaching Lab,5
+Killgore Hall,Scott Hall,4
+Scott Hall,Bostian Hall,2
+Bostian Hall,Phytotron,3
+Bostian Hall,Gardner Hall,2
+Gardner Hall,Williams Hall,4
+Williams Hall,Dabney Hall,2
+Dabney Hall,Cox Hall,2
+Cox Hall,Beaurau of Mines,3
+Fox Teaching Lab,Beaurau of Mines,4
+Scott Hall,DH Hill Library,7
+DH Hill Library,Patterson Hall,3
+Burlington Lab,Patterson Hall,4
+Burlington Lab,Polk Hall,4
+Polk Hall,Broughton Hall,13
+Beaurau of Mines,Broughton Hall,2
+Ricks Hall,Withers Hall,8
+Withers Hall,Riddick Hall,9
+Broughton Hall,Mann Hall,2
+Mann Hall,Riddick Hall,3
+Ricks Hall,Tomkins Hall,3
+Tomkins Hall,Bell Tower,3
+Bell Tower,Winslow Hall,6
+Winslow Hall,Holladay Hall,4
+Winslow Hall,Brooks Hall,3
+Brooks Hall,Kamphoefner Hall,3
+Kamphoefner Hall,Syme Hall,3
+Brooks Hall,Welch Hall,2
+Riddick Hall,Welch Hall,5
